@@ -1,0 +1,22 @@
+{
+  "name": "drupal-theme-tools",
+  "version": "0.1.0",
+  "description": "Tools supporting developing Drupal themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgred/drupal-theme-tools.git"
+  },
+  "keywords": [
+    "drupal"
+  ],
+  "author": "Alex Dolzhenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexgred/drupal-theme-tools/issues"
+  },
+  "homepage": "https://github.com/alexgred/drupal-theme-tools#readme"
+}
