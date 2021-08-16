@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/alexgred/drupal-theme-tools/issues"
   },
-  "homepage": "https://github.com/alexgred/drupal-theme-tools#readme"
+  "homepage": "https://github.com/alexgred/drupal-theme-tools#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-stylus": "^2.7.0",
+    "sass": "^1.37.5"
+  }
 }

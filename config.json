@@ -1,0 +1,7 @@
+{
+  "styles": {
+    "sass": "style.scss",
+    "less": "style.less",
+    "stylus": "style.styl"
+  }
+}
